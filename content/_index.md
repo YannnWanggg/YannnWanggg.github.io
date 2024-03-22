@@ -19,17 +19,19 @@ sections:
         text: Download Résumé
         url: uploads/resume.pdf
     design:
-      banner:
-        # Upload your cover image to the `assets/media/` folder and reference it here
-        filename: kalen-emsley-Bkci_8qcdvQ-unsplash.jpg
-        # filename: blackhold.jpeg
+      # banner:
+      #   # Upload your cover image to the `assets/media/` folder and reference it here
+      #   filename: kalen-emsley-Bkci_8qcdvQ-unsplash.jpg
+      #   # filename: blackhold.jpeg
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'
       background:
         image:
           filename: blackhold.jpeg
+          position: left
           parallax: true
+          text_color_light: true
   - block: experience
     content:
       username: admin
