@@ -55,24 +55,26 @@ education:
     date_end: 2023-06-30
     summary: |
       3D Computer Vision
-      # GPA: 3.8/4.0
 
-      # Courses included:
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #    GPA: 3.8/4.0
+
+  #    Courses included:
+  #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Software Engineering
     institution: Beijing Institute of Technology
     date_start: 2016-09-01
     date_end: 2020-06-30
     summary: |
       Obtained the qualification to be admitted to gradute school.
-      # GPA: 3.4/4.0
+
+  #    GPA: 3.4/4.0
       
-      # Courses included:
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #    Courses included:
+  #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Research Engineer
     company_name: Beijign Institute for General Artificial Intelligence (BIGAI)
