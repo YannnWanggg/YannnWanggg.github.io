@@ -117,7 +117,7 @@ skills:
       - name: Basketball
         description: ''
         percent: 80
-        icon: fas/basketball
+        icon: cat
       # - name: Cats
       #   description: ''
       #   percent: 100
