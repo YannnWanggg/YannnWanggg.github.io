@@ -64,7 +64,7 @@ education:
   - area: BSc Software Engineering
     institution: Beijing Institute of Technology
     date_start: 2016-09-01
-    date_end: 2020-06-31
+    date_end: 2020-06-30
     summary: |
       Obtained the qualification to be admitted to gradute school.
       # GPA: 3.4/4.0
