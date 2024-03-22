@@ -29,7 +29,7 @@ sections:
       background:
         image:
           filename: blackhold.jpeg
-          position: center
+          position: right
           parallax: true
           text_color_light: true
   - block: experience
