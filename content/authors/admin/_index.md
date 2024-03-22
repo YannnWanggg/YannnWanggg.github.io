@@ -52,7 +52,7 @@ education:
   - area: MEng Artificial Intelligence
     institution: Beijing Institute of Technology
     date_start: 2020-09-01
-    date_end: 2023-06-31
+    date_end: 2023-06-30
     summary: |
       3D Computer Vision
       # GPA: 3.8/4.0
