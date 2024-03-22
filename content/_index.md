@@ -30,7 +30,7 @@ sections:
         image:
           filename: blackhold.jpeg
           position: left
-          parallax: true
+          # parallax: true
           text_color_light: true
   - block: experience
     content:
