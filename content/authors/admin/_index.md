@@ -90,7 +90,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2021-03-01
-    date_end: 2021-01-31
+    date_end: 2022-01-31
     summary: |
       Responsibilities include:
       - Domain Adaptation for 3D Object Detection
